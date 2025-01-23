@@ -2,6 +2,9 @@
 
 This repository contains a Power BI project designed to analyze bank loan data. The dashboard provides key insights into loan approval rates, default risks, customer demographics, and lending patterns. It serves as a valuable tool for banks and financial institutions aiming to make informed lending decisions based on data-driven insights.
 
+
+![summary](https://github.com/user-attachments/assets/818f7918-83df-4e97-9b6c-52759bdd9656)
+
 ## Features
 
 - **Loan Approval Analysis**: Breakdown of approved vs. rejected loans with trends over time.
@@ -17,7 +20,10 @@ This repository contains a Power BI project designed to analyze bank loan data. 
 
 ## Dashboard Overview
 
-![Dashboard Screenshot](link-to-dashboard-screenshot)
+![overview](https://github.com/user-attachments/assets/dfa16bfc-a6c3-41bb-876a-aef2e0b1336e)
+
+![details](https://github.com/user-attachments/assets/fcd65ac9-05fc-44fa-8076-5a7a89666823)
+
 
 The dashboard consists of the following sections:
 - **Overview**: Summary metrics, including total loans, approval rates, and default rates.
